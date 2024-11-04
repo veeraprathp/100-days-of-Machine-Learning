@@ -51,6 +51,6 @@ To make the most of this challenge, I’m utilizing a range of resources that co
 
 Are you also on a learning journey or taking the 100 Days of ML challenge? Let’s connect and support each other!
 
-- **LinkedIn**: [Veera Prathap](https://www.linkedin.com/in/veera06)
+- **LinkedIn**: [Veera Prathap](https://www.linkedin.com/in/veera-prathap-995253222/)
 
 Join me on this exciting journey of discovery, growth, and innovation in the world of machine learning. Let’s make an impact together! 🌍✨
