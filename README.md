@@ -1,4 +1,4 @@
-# 100 Days of Machine Learning 🚀
+# 100 Days of Machine Learning 
 
 Welcome to my **100 Days of Machine Learning** challenge! This repository chronicles my journey as I dive deep into the world of machine learning, committing to daily practice and exploration over the next 100 days. From foundational algorithms to real-world projects, this challenge is designed to build a solid grasp of machine learning concepts, tools, and applications.
 
